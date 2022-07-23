@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Aug 22 16:51:24 CST 2021","Sun Aug 22 16:51:32 CST 2021","7310","TestCase","test_login","Test01","","","test_search","打开百度"
-"passed","Sun Aug 22 16:51:32 CST 2021","Sun Aug 22 16:51:43 CST 2021","11019","TestCase","test_login","Test01","","","test_loginsystem","登录系统"

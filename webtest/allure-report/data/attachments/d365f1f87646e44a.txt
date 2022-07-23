@@ -1,6 +1,0 @@
-[32mINFO    [0m poium:logging.py:18 [32mINFO ✅ Find element: id=kw [0m
-[32mINFO    [0m poium:logging.py:18 [32mINFO 🖋 input element: 百度搜索框[0m
-[32mINFO    [0m poium:logging.py:18 [32mINFO ✅ Find element: xpath=//*[@id="su"] [0m
-[32mINFO    [0m poium:logging.py:18 [32mINFO 🖱 click element: 搜索按键[0m
-[32mINFO    [0m poium:logging.py:18 [32mINFO ✅ Find element: xpath=//*[@id="1"]/h3/a[1]/em [0m
-[32mINFO    [0m poium:logging.py:18 [32mINFO 🖱 click element: 系统链接[0m
