@@ -1,0 +1,20 @@
+[
+  {
+    "desc": "登录成功",
+    "username": "18078354736",
+    "password": "123456",
+    "verify_code": "8888",
+    "status_code": 200,
+    "status": 1,
+    "msg": "登陆成功"
+  },
+   {
+    "desc": "账号不存在",
+    "username": "18078354737",
+    "password": "123456",
+    "verify_code": "8888",
+    "status_code": 200,
+    "status": -1,
+    "msg": "账号不存在!"
+  }
+]

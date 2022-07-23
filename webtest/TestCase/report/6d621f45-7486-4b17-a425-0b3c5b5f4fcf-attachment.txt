@@ -1,0 +1,7 @@
+2021-11-29 15:17:15,306 [32mINFO ✅ Find element: id=emp_DomainName [0m
+2021-11-29 15:17:16,301 [32mINFO 🖋 input element: 用户名[0m
+2021-11-29 15:17:16,361 [32mINFO ✅ Find element: id=emp_Password [0m
+2021-11-29 15:17:17,377 [32mINFO 🖋 input element: 用户密码[0m
+2021-11-29 15:17:17,522 [32mINFO ✅ Find element: id=BtnLogin [0m
+2021-11-29 15:17:18,487 [32mINFO 🖱 click element: 登录[0m
+进入系统

@@ -1,0 +1,105 @@
+{
+  "uid" : "e695024585f2854f",
+  "name" : "test_search",
+  "fullName" : "TestCase.test_login.Test01#test_search",
+  "historyId" : "c2ab87acf580bad2aeecdd84082f54b4",
+  "time" : {
+    "start" : 1629622284811,
+    "stop" : 1629622292121,
+    "duration" : 7310
+  },
+  "description" : "打开百度",
+  "descriptionHtml" : "<p>打开百度</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1629622283242,
+      "stop" : 1629622284810,
+      "duration" : 1568
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "打开百度",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d365f1f87646e44a",
+      "name" : "log",
+      "source" : "d365f1f87646e44a.txt",
+      "type" : "text/plain",
+      "size" : 526
+    }, {
+      "uid" : "a7e627aae1b4313",
+      "name" : "stdout",
+      "source" : "a7e627aae1b4313.txt",
+      "type" : "text/plain",
+      "size" : 456
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "feature",
+    "value" : "测试场景1"
+  }, {
+    "name" : "story",
+    "value" : "测试用例1-1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test01"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-VP2FONQS"
+  }, {
+    "name" : "thread",
+    "value" : "12656-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "trivial",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e695024585f2854f.json",
+  "parameterValues" : [ ]
+}

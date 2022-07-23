@@ -1,0 +1,7 @@
+2021-11-29 15:17:04,513 [32mINFO ✅ Find element: id=kw [0m
+2021-11-29 15:17:05,493 [32mINFO 🖋 input element: 百度搜索框[0m
+2021-11-29 15:17:05,582 [32mINFO ✅ Find element: xpath=//*[@id="su"] [0m
+2021-11-29 15:17:06,589 [32mINFO 🖱 click element: 搜索按键[0m
+2021-11-29 15:17:09,661 [32mINFO ✅ Find element: xpath=//*[@id="1"]/h3/a[1]/em [0m
+2021-11-29 15:17:10,622 [32mINFO 🖱 click element: 系统链接[0m
+搜索系统

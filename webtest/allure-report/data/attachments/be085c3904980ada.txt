@@ -1,0 +1,7 @@
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:304 Connection pool is full, discarding connection: 127.0.0.1
+[32mINFO    [0m poium:logging.py:18 [32mINFO ✅ Find element: id=emp_DomainName [0m
+[32mINFO    [0m poium:logging.py:18 [32mINFO 🖋 input element: 用户名[0m
+[32mINFO    [0m poium:logging.py:18 [32mINFO ✅ Find element: id=emp_Password [0m
+[32mINFO    [0m poium:logging.py:18 [32mINFO 🖋 input element: 用户密码[0m
+[32mINFO    [0m poium:logging.py:18 [32mINFO ✅ Find element: id=BtnLogin [0m
+[32mINFO    [0m poium:logging.py:18 [32mINFO 🖱 click element: 登录[0m
